@@ -1,0 +1,31 @@
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+    text-justify: auto;
+    background: url('fondo.png') no-repeat center center fixed;
+    background-size: cover;
+  }
+
+.contacto {
+  text-align: center;
+  
+}
+.contacto img {
+    width: 80px;
+    height: 80px;
+    margin-left: 15%;   
+}
+.opacity {
+    opacity:0.6!important;
+  }
+
+hr { 
+    background-color: rgb(108,117,125); height: 1px; border: 0; 
+}
+hr.doble { 
+    background-color: rgb(108,117,125); height: 2px; border: 0; 
+}
+li {
+    margin-bottom: 5%;
+}
+
+
